@@ -10,8 +10,9 @@ to install all dependency run either npm i or npm install.
 | This will show up in your terminal |
 | for minimum requirements           | run npm basic   |
 
-| Description                 | run in terminal                               |
-| --------------------------- | --------------------------------------------- |
-| for code to show in browser | wait for each step to compelete their process |
-| step 1                      | run npm build                                 |
-| step 2                      | run npm start                                 |
+| Description                 | run in terminal                                                                    |
+| --------------------------- | ---------------------------------------------------------------------------------- |
+| for code to show in browser | wait for each step to compelete their process                                      |
+| step 1                      | run npm build                                                                      |
+| step 2                      | run npm start                                                                      |
+| step 3                      | open http://localhost:3000 in your browser or ctrl click the link in your terminal |
